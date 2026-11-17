@@ -1,0 +1,14 @@
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\bin\Debug\net10.0\Practica2.exe
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\bin\Debug\net10.0\Practica2.deps.json
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\bin\Debug\net10.0\Practica2.runtimeconfig.json
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\bin\Debug\net10.0\Practica2.dll
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\bin\Debug\net10.0\Practica2.pdb
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.GeneratedMSBuildEditorConfig.editorconfig
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.AssemblyInfoInputs.cache
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.AssemblyInfo.cs
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.csproj.CoreCompileInputs.cache
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.dll
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\refint\Practica2.dll
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.pdb
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\Practica2.genruntimeconfig.cache
+U:\hlocal\Alvaro y Angel son aun mejores\Practica2\Practica2\obj\Debug\net10.0\ref\Practica2.dll
